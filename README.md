@@ -22,9 +22,9 @@ Agro AI is an AI-assisted field-force platform designed to help agricultural tea
 
 | Name | Role | Responsibilities |
 |---|---|---|
-| **Vishwa** | Team Lead | Team presentation, Demo storytelling, Judge interaction and Q&A |
-| **Priyam** | AI/ML + Deep Learning | AI/ML recommendation logic, Crop risk and farmer need scoring, Product relevance and priority ranking |
-| **Richa** | PPT & Documentation | PPT structure and visual storytelling, Project documentation, Final pitch preparation |
+| **Vishwa** | Team Lead | Team presentation, Demo storytelling, Research |
+| **Priyam** | AI/ML + Deep Learning | Recommendation logic, Product relevance and priority ranking |
+| **Richa** | PPT & Documentation | PPT structure and visual storytelling, Project documentation |
 | **Shadab** | Frontend Development | Field rep dashboard, Visit planner interface, Recommendation cards |
 | **Aviral** | Frontend Development | Interactive components, Manager analytics view, UI responsiveness |
 | **Anmol** | Backend Development | Backend APIs and data flow, Database and processing, AI engine integration |
