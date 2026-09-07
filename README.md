@@ -13,6 +13,8 @@
 
 ## 🏆 Recognition
 **Finalist — IIT Madras AgroAI / Syngenta challenge**
+![Certificate of Achievement — Finalist, Syngenta Hackathon 2026, IIT Madras](./assets/syngenta-certificate.jpeg)
+
 
 Agro AI is an AI-assisted field-force platform designed to help agricultural teams prioritize visits, identify high-value opportunities and recommend the next best field action.
 
