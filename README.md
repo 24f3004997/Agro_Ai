@@ -11,7 +11,42 @@
 [![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62B)](https://vite.dev/)
 
----
+## 🏆 Recognition
+**Finalist — IIT Madras AgroAI / Syngenta challenge**
+
+Agro AI is an AI-assisted field-force platform designed to help agricultural teams prioritize visits, identify high-value opportunities and recommend the next best field action.
+
+## 👥 Team Members & Roles
+
+**Vishwa — Team Lead**
+- Team presentation
+- Demo storytelling
+- Judge interaction and Q&A
+
+**Priyam — AI/ML + Deep Learning**
+- AI/ML recommendation logic
+- Crop risk and farmer need scoring
+- Product relevance and priority ranking
+
+**Richa — PPT & Documentation**
+- PPT structure and visual storytelling
+- Project documentation
+- Final pitch preparation
+
+**Shadab — Frontend Development**
+- Field rep dashboard
+- Visit planner interface
+- Recommendation cards
+
+**Aviral — Frontend Development**
+- Interactive components
+- Manager analytics view
+- UI responsiveness
+
+**Anmol — Backend Development**
+- Backend APIs and data flow
+- Database and processing
+- AI engine integration
 
 ## 🌟 Introduction
 
