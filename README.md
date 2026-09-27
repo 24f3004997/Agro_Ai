@@ -1,6 +1,6 @@
 # 🌾 AgroAI — AI-Guided Field Force Intelligence Platform
 
-> **Track:** AI-Guided Field Force Intelligence  
+> **Track:** AI-Guided Field Force Intelligence.  
 > **Event:** Syngenta Hackathon 2026  
 > **Aesthetic Design:** Premium Glassmorphic Dark Mode with Harman HSL Accents
 
